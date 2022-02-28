@@ -25,6 +25,20 @@ p {
   text-justify: justify;
 }
 
+#carte_1 {
+  padding-bottom: 10px;
+}
+
+#btn-bleu {
+  font-size: 25px;
+  background-color: #3b5a66;
+  color: #FFFFFF;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
 #pdp {
   border-radius: 50%;
   max-width: 35%;
